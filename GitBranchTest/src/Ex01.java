@@ -5,6 +5,7 @@ public class Ex01 {
 
 		System.out.println("Test1");
 		System.err.println("Test2");
+		System.out.println("Test3");
 	}
 
 }
